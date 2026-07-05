@@ -58,7 +58,6 @@ const CONFIG = {
     groom: [
       { role: "이준영", bank: "신한은행", number: "110-396-815057" },
       { role: "이현수", bank: "농협은행", number: "103-02-154690" },
-      { role: "이민호", bank: "신한은행", number: "110-395-268020" }
     ],
     bride: [
       { role: "이아현", bank: "농협은행", number: "817-847-5101-5526" },
